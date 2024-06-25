@@ -1,0 +1,85 @@
+﻿@model List<CRUDCORE.Models.Empleado>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Sistema de Empleados</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="card">
+    <div class="card-header"><h5>Lista de empleados</h5></div>
+    <div class="card-body">
+        <a class="btn btn-success btn-sm" asp-action="Empleado_Detalle" asp-controller="Home" asp-route-IdEmpleado="0">Crear Nuevo</a>
+        <a class="btn btn-success btn-sm" asp-action="Cargo_Detalle" asp-controller="Home" asp-route-IdCargo="0">Crear Nuevo Cargo</a>
+        <a class="btn btn-success btn-sm" asp-action="Empresa_Detalle" asp-controller="Home" >Crear Nueva Empresa</a>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre Completo</th>
+                <th>Correo</th>
+                <th>Telefono</th>
+                <th>Cargo</th>
+                <th>Empresa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.NombreCompleto</td>
+                    <td>@item.Correo</td>
+                    <td>@item.Telefono</td>
+                    @if (@item.oCargo != null)
+                    {
+                        <td>@item.oCargo.Descripcion</td>
+                    }
+                    else
+                    {
+                        <td></td>
+                    }
+                    @if (@item.oEmpresa != null)
+                    {
+                        <td>@item.oEmpresa.NombreEmpresa</td>
+                    }else{<td></td>}
+                   @*  <td>(@item.oEmpresa.NombreEmpresa == null) ? "" : @item.oEmpresa.NombreEmpresa</td> *@
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-action="Empleado_Detalle" asp-controller="Home" asp-route-IdEmpleado="@item.IdEmpleado">Editar</a>
+                        <a class="btn btn-danger btn-sm Eliminar" id="@item.IdEmpleado">Eliminar</a>
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+<script>
+
+    $('body').on('click', '.Eliminar', function (e) {
+ 
+        if (confirm('¿Borrar empleado?')) {
+            var items = EliminarPedido(this.id);
+            location.reload();
+        } 
+         
+    });
+    function EliminarPedido(IdEmpleado) {
+        console.log("ingreso: " + IdEmpleado);
+        var resultado = '';
+        $.ajax({
+            type: 'POST',
+            async: false,
+            url: '@Url.Action("Eliminar", "Home")',
+            data: { IdEmpleado: IdEmpleado },
+            success: function (result) {
+                resultado = result;
+            }
+
+        });
+        return resultado;
+    }
+
+
+</script>

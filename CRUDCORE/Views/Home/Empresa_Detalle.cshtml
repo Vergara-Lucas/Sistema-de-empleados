@@ -1,0 +1,37 @@
+﻿@model CRUDCORE.Models.Empresa
+@{
+    ViewData["Title"] = "Empresa_Detalle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Empresa_Detalle</h1>
+<div class="row">
+    <div class=" col-sm-4">
+        <form asp-action="Empresa_Save" asp-controller="Home" method="post">
+            <input type="hidden" asp-for="@Model.IdEmpresa" />
+            <div class=" mb-2">
+                <label class=" form-label" asp-for="@Model.NombreEmpresa">Empresa</label>   			
+                <input class=" form-control" asp-for="@Model.NombreEmpresa" type="text" />
+            </div>
+            <div class=" mb-2">
+                <label class=" form-label" asp-for="@Model.Ubicacion">Ubicación</label>
+                <input class=" form-control" asp-for="@Model.Ubicacion" type="text" />
+            </div>
+            <div class=" mb-2">
+                <label class=" form-label" asp-for="@Model.Contacto">Contacto</label>
+                <input class=" form-control" asp-for="@Model.Contacto" type="text" />
+            </div>
+            <div class=" mb-2">
+
+                <button class="btn btn-primary btn-sm w-25" type="submit">Crear</button>
+
+
+                <a class="btn btn-dark btn-sm" asp-action="Index" asp-controller="Home">Volver</a>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\views\\home\\empresa_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\home\\empresa_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\models\\viewmodels\\empleadovw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\viewmodels\\empleadovw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\views\\home\\cargo_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\home\\cargo_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\interface\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\interface\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|c:\\users\\lvergara\\source\\repos\\crudcore\\crudcore\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F5E96-9836-4E1C-8E4B-49EEC4E5D38B}|CRUDCORE\\CRUDCORE.csproj|solutionrelative:crudcore\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:12:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Interface\\IController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Interface\\IController.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Interface\\IController.cs",
+              "RelativeToolTip": "CRUDCORE\\Interface\\IController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:53:56.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Empresa.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:48:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empresa_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Empresa_Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Home\\Empresa_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Empresa_Detalle.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Home\\Empresa_Detalle.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:30:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:49:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBCrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\DBCrudContext.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\DBCrudContext.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\DBCrudContext.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\DBCrudContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:24:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoVW.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\ViewModels\\EmpleadoVW.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\ViewModels\\EmpleadoVW.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\ViewModels\\EmpleadoVW.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\ViewModels\\EmpleadoVW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:54:00.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Cargo.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\Cargo.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Cargo.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:53:54.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cargo_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Cargo_Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUDCORE\\Views\\Home\\Cargo_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Views\\Home\\Cargo_Detalle.cshtml",
+              "RelativeToolTip": "CRUDCORE\\Views\\Home\\Cargo_Detalle.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:41:14.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDCORE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:55:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Models\\Empleado.cs",
+              "RelativeToolTip": "CRUDCORE\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:54:09.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDCORE\\Program.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\CRUDCORE\\CRUDCORE\\Program.cs",
+              "RelativeToolTip": "CRUDCORE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:50:45.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
